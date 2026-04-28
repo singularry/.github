@@ -380,7 +380,7 @@ Multi-channel alerting:
 | **Website** | [singularry.com](https://singularry.com) |
 | **GitHub** | [github.com/singularry](https://github.com/singularry) |
 | **Twitter** | [@singularry](https://twitter.com/singularry) |
-| **Discord** | [Join Discord](https://discord.gg/singularry) |
+
 
 ---
 
